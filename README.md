@@ -32,7 +32,3 @@ I am a Senior Artificial Intelligence Student, an emerging data scientist passio
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="kaggle" width="40" height="40"/>
 </div>
 
-
-### Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
