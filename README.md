@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I am a Senior Artificial Intelligence Student, an emerging data scientist passionate about harnessing data forimproving projects and solving problems. I'm currently studying **@Univerity of Jeddah** & working **@Mashorah** :blue_heart:
+I am a Senior Artificial Intelligence Student, an emerging data scientist passionate about harnessing data for improving projects and solving problems. I'm currently studying **@Univerity of Jeddah** & working **@Mashorah** :blue_heart:
 
 
 ### Languages and Tools :
